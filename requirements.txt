@@ -1,1 +1,1 @@
-python-telegram-bot==20.7
+python pocket_option_bot.py
