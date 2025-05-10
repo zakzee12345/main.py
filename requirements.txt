@@ -1,1 +1,1 @@
-python pocket_option_bot.py
+pip install telebot pandas ta numpy ccxt
